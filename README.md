@@ -20,8 +20,8 @@
 
 Feel free to contact me via:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vishalpande-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pandesagar/)](https://www.linkedin.com/in/pandesagar/)
-[![Gmail Badge](https://img.shields.io/badge/-vishalpande@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:sagarpande115@gmail.com)](mailto:sagarpande115@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-SagarPande-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pandesagar/)](https://www.linkedin.com/in/pandesagar/)
+[![Gmail Badge](https://img.shields.io/badge/-sagarpande115@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:sagarpande115@gmail.com)](mailto:sagarpande115@gmail.com)
 
 
 <br/>
